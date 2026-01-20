@@ -143,6 +143,7 @@ ccpi validate ./my-plugin
 - **[@clickmediapropy](https://github.com/clickmediapropy)** - Reported mobile horizontal scrolling bug, improving website UX ([#120](https://github.com/jeremylongshore/claude-code-plugins-plus/issues/120))
 - **[@BayramAnnakov](https://github.com/bayramannakov) (Bayram Annakov)** - 🧠 Created claude-reflect, a self-learning system that captures corrections during sessions and syncs them to CLAUDE.md - teaching Claude to remember your preferences! ([#241](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/pull/241))
 - **[@jleonelion](https://github.com/jleonelion) (James Leone)** - 🔧 Fixed critical bash variable scoping bug in Learning Lab scripts and improved markdown formatting for better copy-paste experience ([#239](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/pull/239))
+- **[@RichardHightower](https://github.com/RichardHightower) (Rick Hightower)** - 🎯 **QUALITY CHAMPION:** Creator of [skilz](https://skillzwave.ai/) (universal agent skill installer supporting 14+ coding agents) and co-founder of [SkillzWave](https://skillzwave.ai/), the world's largest agentic skill marketplace with 44,000+ skills. His rigorous skill quality reviews (#293, #294, #295) exposed critical content validation gaps—files listed in READMEs that didn't exist, stub scripts with placeholder code, and generic boilerplate masquerading as documentation. This feedback drove **4,300+ lines** of fixes across 3 skills and spawned new validator checks that catch these issues automatically. Author of the [Claude Code Skills Deep Dive](https://pub.spillwave.com/claude-code-skills-deep-dive-part-1-82b572ad9450) series and extensive AI architecture content on [Medium](https://medium.com/@richardhightower) and [Spillwave Solutions](https://pub.spillwave.com/). ([#293](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/issues/293), [#294](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/issues/294), [#295](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/issues/295))
 
 **Want to contribute?** See [000-docs/007-DR-GUID-contributing.md](./000-docs/007-DR-GUID-contributing.md) or reach out to **jeremy@intentsolutions.io**
 
@@ -625,7 +626,7 @@ MIT License - See [000-docs/001-BL-LICN-license.txt](000-docs/001-BL-LICN-licens
 ## Acknowledgments
 
 - **Anthropic** - For creating Claude Code and the plugin system
-- **Richard Hightower** - For the 100-point skill grading rubric that improved our quality standards
+- **Richard Hightower** - Creator of [skilz](https://skillzwave.ai/) and co-founder of SkillzWave; his rigorous skill quality reviews drove our 100-point grading rubric improvements
 - **Community Contributors** - Everyone who submits plugins and improvements
 - **Early Adopters** - Users who provide feedback and help us improve
 
