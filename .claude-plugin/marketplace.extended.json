@@ -6108,6 +6108,30 @@
         "commands": 1
       },
       "featured": true
+    },
+    {
+      "name": "b12-claude-plugin",
+      "source": "./plugins/community/b12-claude-plugin",
+      "description": "B12 Website Generator plugin allows you to create a professional, engaging, and user-friendly website in seconds using AI. Provide a business name and description and Claude generates a production-ready website link instantly.",
+      "version": "1.0.0",
+      "category": "community",
+      "keywords": [
+        "website",
+        "b12",
+        "hosting",
+        "web-design",
+        "ai-website",
+        "website-generator",
+        "saas"
+      ],
+      "author": {
+        "name": "B12.io",
+        "url": "https://github.com/b12io"
+      },
+      "components": {
+        "skills": 1
+      },
+      "featured": false
     }
   ]
 }
